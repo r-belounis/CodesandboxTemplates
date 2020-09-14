@@ -70,4 +70,4 @@ The ***sandbox.config.json*** will have to be configured this way :
 
 - Have a look at Frontity blog post [How to Create a React WordPress Theme in 30 Minutes](https://frontity.org/blog/how-to-create-a-react-theme-in-30-minutes/)
 
-Thanks for reading and enjoy this Frontity-template :grin:
+#### Thanks for reading and enjoy this Frontity template :grin:
