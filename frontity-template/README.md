@@ -30,8 +30,9 @@ Open ***frontity.setting.js*** and at the bottom line, change the url of the api
     }
 ```
 
-Here we define our api adress from ***public-api-wordpress*** for websites from wordpress.com, but you can change it to match your own wordpress WP-REST api. Take a look at the docs at the bottom from Frontity
-for more info.
+Here we define our api adress from ***public-api-wordpress*** for websites from wordpress.com, but you can change it to match your own wordpress WP-REST api. 
+
+> Take a look at the docs at the bottom from Frontity for more info.
 
 ### How to make it Frontity work in codeanbox.io '?'
 
