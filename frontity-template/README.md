@@ -5,7 +5,7 @@ This project was bootstrapped with [Frontity](https://frontity.org/).
 ## Table of Contents
 - [Fork repository to your codesanbox](#fork-repository-to-your-codesanbox)
 - [Fetch your own articles from your wordpress](#fetch-your-own-articles-from-your-wordpress)
-- [How to make it Frontity work in codeanbox.io '?'](#how-to-make-it-frontity-work-in-codeanboxio-)
+- [How to make it Frontity work in codesanbox.io '?'](#how-to-make-it-frontity-work-in-codesanboxio-)
 - [Have a look at the official docs](#have-a-look-at-the-official-docs)
 
 ### Fork repository to your codesanbox
@@ -34,7 +34,7 @@ Here we define our api adress from ***public-api-wordpress*** for websites from 
 
 > Take a look at the docs at the bottom from Frontity for more info.
 
-### How to make it Frontity work in codeanbox.io '?'
+### How to make it Frontity work in codesanbox.io '?'
 
 To make Frontity working on codesandbox.io, you need to make some ***script editing*** on ***package.json*** and create a ***sandbox.config.json*** file at your root project folder.
 
