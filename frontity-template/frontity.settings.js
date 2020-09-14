@@ -17,6 +17,7 @@ const settings = {
               "Home",
               "/"
             ]
+          ],
           "featured": {
             "showOnList": false,
             "showOnPost": false
