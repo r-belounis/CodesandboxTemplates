@@ -25,7 +25,6 @@ Open ***frontity.setting.js*** and at the bottom line, change the url of the api
 "name": "@frontity/wp-source",
     "state": {
         "source": {
-          // Here you can add your WP-REST API url to fetch your posts data
           "api": "https://public-api.wordpress.com/wp/v2/sites/myapiadress.wordpress.com"
         }
     }
