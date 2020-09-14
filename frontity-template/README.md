@@ -3,12 +3,10 @@
 This project was bootstrapped with [Frontity](https://frontity.org/).
 
 ## Table of Contents
-- [`Codesanbox.io frontity-template`](#codesanboxio-frontity-template)
-  - [Table of Contents](#table-of-contents)
-    - [Fork repository to your codesanbox](#fork-repository-to-your-codesanbox)
-    - [Fetch your own articles from your wordpress](#fetch-your-own-articles-from-your-wordpress)
-    - [How to make it Frontity work in codeanbox.io '?'](#how-to-make-it-frontity-work-in-codeanboxio-)
-    - [Have a look at the official docs](#have-a-look-at-the-official-docs)
+- [Fork repository to your codesanbox](#fork-repository-to-your-codesanbox)
+- [Fetch your own articles from your wordpress](#fetch-your-own-articles-from-your-wordpress)
+- [How to make it Frontity work in codeanbox.io '?'](#how-to-make-it-frontity-work-in-codeanboxio-)
+- [Have a look at the official docs](#have-a-look-at-the-official-docs)
 
 ### Fork repository to your codesanbox
 
